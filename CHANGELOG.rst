@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.0.9.unomena.1
+-----
+
+#. Moved media to static folder.
+
 0.0.9
 -----
 
